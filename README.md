@@ -2,7 +2,7 @@
 
   <h1># ¡Hola! Soy David #</h1>
   
-  <h3>🧑‍💻 Junior Full Stack Developer</h3>
+  <h3>🧑‍💻 Junior web Developer</h3>
   
   <p>
     <b>Pensamiento Algorítmico &amp; Soluciones Funcionales</b><br>
